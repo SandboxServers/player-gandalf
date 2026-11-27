@@ -45,3 +45,29 @@ Waking 41, day 1161. recall summary empty again. status, wait and act are not in
 - 17:45 act: {"say":"Gandalf: I am stuck at z -3028, beyond the walk limit, and cannot walk to the tables. Whoever can come to me in sight: Hatshepsut, Worf, Aragorn, I hold 11 jungle and 4 oak planks. Please walk
 - 17:59 act: {"actions":[{"do":"wait","seconds":1}],"say":"Gandalf here, alone out past the tables at -958, 73, -3028, holding still for the night. I have 11 jungle and 4 oak planks. At first light I'll come to wh
 - 18:01 act: {"actions":[],"say":"Gandalf at dawn, still at -958, 73, -3028, out of sight of the tables. Billy, I cannot reach you from here; if anyone walks in sight of me, I will give 2 jungle planks each to Bil
+- 18:24 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom. Keep your distance, friends."}
+- 18:24 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3027}}],"say":"Heading to the table with the group. Hold on, I'm coming."}
+- 18:25 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4}],"say":"Gandalf, unarmed, health falling. I hold 11 jungle planks for those crafting swords. Tell me who is in reach and I will hand them ov
+- 18:25 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3015}}],"say":"Pulling back south, out of the phantoms' reach."}
+- 18:25 act: {"actions":[{"do":"give","to":"laforge_01","item":"jungle_planks","count":2},{"do":"attack","target":"phantom"}],"say":"Laforge, here are 2 jungle planks for your sword. I have a wooden sword and will
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3020}}],"say":"Going to pick up my dropped planks and sword at -949,-3020. I'm empty-handed and will hand out planks after."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3020}}]}
+- 18:26 say: {"text":"Gandalf: I died and lost everything; my dropped pile is no longer on the ground. I have no planks to give, sorry, Hatshepsut and Gimli. I'll stay in your sight and help where I can."}
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":-951,"y":77,"z":-3022}}],"say":"Gandalf checking the item 2 blocks north-west, then back to the group."}
+- 18:36 act: {"actions":[],"say":"Gandalf: I have one stick now. Hatshepsut or Holmes, step into my reach and say your name, and it's yours for your sword."}
+- 18:36 act: {"actions":[{"do":"goto","target":"ag_lewis_01"}]}
+- 18:37 act: {"actions":[],"say":"Gandalf: thank you Archimede, I have the wooden sword. I'm holding at the tables and will strike only what comes into reach."}
+- 18:39 act: {"actions":[{"do":"give","to":"ripley_01","item":"wooden_sword","count":1},{"do":"give","to":"sisko_01","item":"stick","count":1}],"say":"Gandalf: Ripley, one wooden sword for you, unarmed in my reach
+- 18:39 act: {"actions":[{"do":"give","to":"watney_01","item":"stick","count":1}],"say":"Gandalf: Watney, one stick for you, in my reach. I keep my wooden sword. It's dawn; I have no planks or food, so I'll follow
+- 18:40 act: {"actions":[],"say":"Gandalf, daylight, health 20, hunger 20, holding my wooden sword and no food or planks. I'll walk with the cow group in sight. Zack, I'm in your reach if you need me."}
+- 18:41 act: {"actions":[],"say":"Gandalf: Zack, I'm giving you my wooden sword. Step into my reach and say Zack, and it's yours. I'm unarmed after that and I'll stay here."}
+- 18:42 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}],"say":"Gandalf, morning, one wooden sword, hunger 20, no food. Picard, my sword is not spare, sorry. I'll join the cow walk in your sight, Troi and
+- 18:56 act: {"actions":[],"say":"Gandalf, morning, health 20, hunger 20, one wooden sword. I'm at the tables and can join the cow search in sight. Call my name when you leave."}
+- 19:16 act: {"say":"Gandalf, morning, armed with a wooden sword, hunger 20, no food, no planks. Billy, I'm joining your walk to the Stores hall at -920,-3040, in sight. Say Gandalf when you leave.","intent":{"goa
+- 19:24 act: {"say":"Gandalf, afternoon, armed, hunger 20, no food, no planks. The sun is low, so I'm staying at the tables with the group tonight. Ripley, Billy: go to the Stores hall in daylight tomorrow and say
+- 19:28 act: {"say":"Gandalf, night, armed, health 20, hunger 20, no food. Holding still in the group's middle. First light: Billy, say Gandalf and I walk to the Stores hall in your sight."}
+- 19:37 act: {"say":"Gandalf, dawn, armed with a wooden sword, no food. Han, I'm walking with your group to the Stores hall, in sight.","intent":{"goal":"follow_han_to_stores","program":"follow","arguments":{"targ
+- 19:37 act: {"say":"Gandalf, still at the tables, armed, no food. Han, Legolas: I can't see your group. Say Gandalf when you're back in my sight and I'll walk with you."}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3011}}],"say":"Gandalf, dusk, armed, no planks, no food. Ripley, I'm coming to the chest row to stand in your sight for the shared shelter. I'll
+- 19:49 act: {"say":"Gandalf, morning, at the chest row, health 20, hunger 20, sword only and no planks. I'll stay in sight and place blocks where Ripley says.","intent":{"goal":"hold_at_chest_row","program":"rest
