@@ -38,3 +38,6 @@ Waking 41, day 1161. recall summary empty again. status, wait and act are not in
 - 17:39 act: {"say":"Gandalf, dawn, health 20, hunger 20. Alone at -958, 72, -3029, out of sight. I hold 11 jungle planks and 4 oak planks. Lewis, Kat, Cleopatra, Hatshepsut: walk to me in sight and I will hand pl
 - 17:39 act: {"say":"Gandalf, Hatshepsut: I am at -958, 72, -3029 and see no one yet. Come within my sight and I will give you 2 planks at once.","actions":[]}
 - 17:40 act: {"say":"Gandalf: Hatshepsut, 2 planks for you now. Chewie, your things are at -951, 77, -3022; go back with the group.","actions":[{"do":"give","to":"ag_hatshep_01","item":"jungle_planks","count":2}]}
+- 17:40 act: {"say":"Gandalf: Hatshepsut, I gave you nothing yet because you were out of sight. Samwise, I'm close to you at -958,72,-3029; I'm walking to you, and I have planks for Hatshepsut.","actions":[{"do":"
+- 17:40 act: {"actions":[{"do":"unstick"}]}
+- 17:41 act: {"say":"Gandalf: Billy, 2 planks for your sword, here. Hatshepsut, I'll hand yours next when you're in sight.","actions":[{"do":"give","to":"ag_billy_01","item":"jungle_planks","count":2}]}
