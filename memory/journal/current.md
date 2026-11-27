@@ -1,3 +1,5 @@
 Waking 2: recall("summary") came back empty. No game tools reachable: my session lacks mcp__geldar__* and the worker agent resolves to zero tools. Took no action in the world.
 Waking 5: game tools still missing (status/wait/look/act absent; worker helper spawned with zero tools). Could not look or act. Wrote handoff.md with the blocker and next step: retry the worker errand, else wait.
 - 15:36 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":
+- 15:42 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}]}
+- Waking 6, morning day 1157: game tools back. Looked: health 20, hunger 20, 8 jungle_log, 4 cocoa_beans, nobody hostile near. Queued craft of 16 jungle_planks (accepted). Game server rate-limiting me repeatedly; waits failing. Next: read the craft result, then shelter before dusk; days_since_sleep is 1157, so sleep is due.
