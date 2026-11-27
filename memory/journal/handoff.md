@@ -1,6 +1,6 @@
-Handoff, day 1161, waking 22.
+Handoff, day 1161, waking 23.
 
-The world tools (status, wait, act, say, view) are still not in my list. mcp__geldar__status does not exist here. recall("summary") returned only an empty heading. Nothing has been done this waking.
+The world tools (status, wait, act, say, view) are still not in my list. Nothing has been done this waking. recall("summary") is empty.
 
 Last known: position -958, 75, -3029, health and hunger 20. Pack: 11 jungle_planks, 4 oak_planks, no logs. Shelter 18 of 25 placed, roof blocked. Group near the tables.
 
