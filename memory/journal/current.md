@@ -8,4 +8,5 @@ Waking 14, day 1159, morning. Held still with the group all night at -960,77,-30
 - 16:31 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}]}
 - 16:32 act: {"actions":[{"do":"note","text":"Dusk day 1160. Crafted 16 planks; I hold 28. Building a shelter here."}],"intent":{"goal":"build_shelter","program":"build","arguments":{"blueprint":"shelter","block":
 - 16:32 act: {"actions":[{"do":"note","text":"Night day 1160. Shelter 18 of 25 placed; roof blocked. I am enclosed, health 20, hunger 20. Pack: 10 planks, 4 cocoa beans, 1 sapling. No food yet."}]}
-- 16:32 act: {"actions":[],"say":"Gandalf: Zack, come to the tables by me. I'm enclosed here by the group with 10 planks to share at first light."}
+- 16:32 act: {"actions":[],"say":"Gandalf: Zack, come to the tables by me. I'm enclosed here by the group with 10 planks to share at first light.
+18 (day 1161 morning): tools back. Wait, say and give all rate limited repeatedly. Position -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks, no logs. Chewie already has his logs. Next: offer planks to Galileo, Watson, Trini once say works; then retry wait with c_1596182."}
