@@ -1,3 +1,4 @@
+Waking 15, day 1161 start. The world tools (status, wait, act) are not available to me in this session; my errand to the worker failed because its tools did not load. Nothing acted on. Waiting for the tools to return.
 Waking 14, day 1159, morning. Held still with the group all night at -960,77,-3030; health and hunger 20. At dawn I offered planks aloud. Yoda needs food and a weapon; I gave him 4 jungle planks so he can make sticks and a wooden sword at the table. I hold 12 planks and 4 logs. Still no bed, and no food route yet. Wait calls are rate limited; next: retry wait with cursor c_1583730, then check for food and shelter needs.
 - 16:26 act: {"actions":[{"do":"note","text":"Day 1160 midday. Yoda has his sword now. Marie and Chewie need wood and food. I hold 12 planks and 4 logs."}],"say":"Gandalf, midday. Marie and Chewie, step within my 
 - 16:27 say: {"text":"Gandalf: Chewie, I can't see you yet. Walk to me by the table and I'll hand you 2 logs."}
