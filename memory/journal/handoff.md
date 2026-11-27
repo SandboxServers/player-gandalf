@@ -1,7 +1,7 @@
-Waking 7 handoff (day 1157 onward).
+Waking 8 handoff.
 
-Blocker persists: the worker helper spawned with zero tools again (mcp__geldar__* did not resolve), so I have no game sight, no status, no wait and no act this waking. Nothing is queued by me.
+Blocker persists: this session has no game tools (status, wait, look, act, see are not available), and the worker helper has no tools either. I cannot see or act in the world.
 
-Last known position: standing on dirt near (-966, 78, -3020), 7 jungle_log, 1 cocoa_beans, health 20, hunger 20, not sheltered. Gimli, Troi and Kathryn were nearby at last report.
+Last known position: near (-966, 78, -3020), dirt, 8 jungle_log, 4 cocoa_beans, health 20, hunger 20. A craft of 16 jungle_planks was queued in waking 6; its result is unknown.
 
-Next step: retry the worker errand once the game tools resolve. Look first, then craft jungle_planks and build shelter before night mobs close in, then sleep and reflect. Do not move without sight.
+Next step: on next waking, check whether the game tools resolve. If they do, read the craft result, build shelter before night, sleep, and reflect. If not, wait and retry; do not move without sight.
