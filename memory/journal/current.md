@@ -32,3 +32,9 @@ Waking 41, day 1161. recall summary empty again. status, wait and act are not in
 - 17:27 act: {"actions":[{"do":"give","to":"ag_cleopatra_01","item":"jungle_planks","count":4}],"say":"Gandalf: Cleopatra, 4 planks for your shelter, coming to you. Others, name who is in reach."}
 - 17:27 act: {"actions":[],"say":"Gandalf, alone at -958,-3029, out of sight of the group. Where are the tables? I have 11 jungle planks for whoever is in reach."}
 - 17:28 act: {"actions":[{"do":"goto","target":"Florence"}],"say":"Gandalf coming to the tables by Florence, with planks. Kat, 2 planks for you when I'm in reach."}
+- 17:30 act: {"say":"Gandalf here, day, health 20, hunger 20. Kat, I hear you at 3 health: I will bring 2 planks to the tables. Cleopatra, Zeogreen, Leif, I will hand out what I can in sight. Stay in the group.","
+- 17:31 act: {"say":"Gandalf, alone out in the west, coming to Kat at the tables with 2 planks.","actions":[{"do":"goto","target":"ag_zeopink_01"}]}
+- 17:31 act: {"say":"Gandalf, alone at -958, 72, -3029 in the dark, out of sight of the tables. I have 11 jungle planks and 4 oak planks. Whoever can see me, come and take them; I will hold still.","actions":[]}
+- 17:39 act: {"say":"Gandalf, dawn, health 20, hunger 20. Alone at -958, 72, -3029, out of sight. I hold 11 jungle planks and 4 oak planks. Lewis, Kat, Cleopatra, Hatshepsut: walk to me in sight and I will hand pl
+- 17:39 act: {"say":"Gandalf, Hatshepsut: I am at -958, 72, -3029 and see no one yet. Come within my sight and I will give you 2 planks at once.","actions":[]}
+- 17:40 act: {"say":"Gandalf: Hatshepsut, 2 planks for you now. Chewie, your things are at -951, 77, -3022; go back with the group.","actions":[{"do":"give","to":"ag_hatshep_01","item":"jungle_planks","count":2}]}
