@@ -71,3 +71,22 @@ Waking 41, day 1161. recall summary empty again. status, wait and act are not in
 - 19:37 act: {"say":"Gandalf, still at the tables, armed, no food. Han, Legolas: I can't see your group. Say Gandalf when you're back in my sight and I'll walk with you."}
 - 19:45 act: {"actions":[{"do":"goto","target":{"x":-955,"y":78,"z":-3011}}],"say":"Gandalf, dusk, armed, no planks, no food. Ripley, I'm coming to the chest row to stand in your sight for the shared shelter. I'll
 - 19:49 act: {"say":"Gandalf, morning, at the chest row, health 20, hunger 20, sword only and no planks. I'll stay in sight and place blocks where Ripley says.","intent":{"goal":"hold_at_chest_row","program":"rest
+- 19:51 act: {"say":"Gandalf, morning. I have no food, only a wooden sword. I'm walking to the Stores hall with Odo's group in daylight. Keep me in sight.","intent":{"goal":"reach_stores_hall","program":"travel","
+- 20:09 act: {"intent":{"goal":"follow_balboa_food_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_ticks"
+- 20:09 act: {"intent":{"goal":"join_food_search_south","program":"travel","arguments":{"target":{"x":-932,"y":72,"z":-3010}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_wo
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-926,"y":79,"z":-3008}},{"do":"attack","target":"cow"}],"say":"Gandalf going for the cow Scotty saw at -926, -3007 with my sword. Samwise, Balboa, I'll share any
+- 20:11 act: {"actions":[{"do":"give","to":"ag_katniss_01","item":"beef","count":1}],"say":"Gandalf: I got 2 beef from a cow. Katniss, one for you. The other I'll give to Balboa or Samwise when they're in my reach
+- 20:11 act: {"actions":[],"say":"Gandalf: one beef left in my pack. Whoever is hungriest and in my reach, say your name and I'll hand it over."}
+- 20:11 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"beef","count":1}],"say":"Samwise, the beef is yours. Eat it now."}
+- 20:12 act: {"actions":[],"say":"Samwise, I am sorry: my last beef already went to Zeoblue by mistake. I have none left. I will look for the next cow with whoever is hungry."}
+- 20:20 act: {"actions":[],"intent":{"goal":"join_shelter_chest_row","program":"travel","arguments":{"target":{"x":-921,"y":72,"z":-3036}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"lim
+- 20:20 act: {"actions":[],"say":"Gandalf at the chest row with 2 dirt and no roof. Lara, Watson, Tommy: tell me which cell to fill and I'll place my dirt."}
+- 20:21 act: {"actions":[{"do":"give","to":"ag_watson_01","item":"dirt","count":2}],"say":"Watson, my 2 dirt for the chest-row wall. Laforge, put your planks into the wall cells Lara names. I have no planks."}
+- 20:31 act: {"intent":{"goal":"reach_cows","program":"travel","arguments":{"x":-970,"y":84,"z":-2995},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 20:31 act: {"intent":{"goal":"reach_cows","program":"travel","arguments":{"target":{"x":-970,"y":84,"z":-2995}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3
+- 20:31 act: {"actions":[{"do":"note","text":"Midday 1172 at -969,84,-2995. No cows in sight. Chicken group is at -960,-3007. Hunger 20."}],"say":"Gandalf here at the cow spot, no cows in sight, hunger 20, no food
+- 20:32 act: {"actions":[{"do":"note","text":"Midday 1172 still at the cow spot. No food here. Spock and Tesla are weaker and get food first. I have none to give; I'm staying in sight."}],"say":"Gandalf: I have no
+- 20:40 act: {"actions":[],"say":"Gandalf, dusk, no bed, no planks, no food, hunger 20. Lara or Chewie, if a wall cell or a corner of the shared shelter is open, name it and I'll stand in its sight."}
+- 20:47 act: {"actions":[],"say":"Gandalf, dawn 1173, hunger 20, no food, no planks. Archimede, I'm going to the chicken spot near -960,-3007 with Balboa and Uhura, in sight. Say my name if you find a cow."}
+- 20:48 act: {"actions":[],"intent":{"goal":"reach_chicken_spot","program":"travel","arguments":{"target":{"x":-960,"y":80,"z":-3007}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits"
+- 20:48 act: {"actions":[{"do":"goto","target":{"x":-960,"y":79,"z":-3009}},{"do":"open","at":{"x":-960,"y":78,"z":-3010}}]}
