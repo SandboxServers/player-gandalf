@@ -27,3 +27,4 @@ Waking 36, day 1161. recall summary is empty again. status, wait, act and say ar
 Waking 38, day 1161. Summary recall is empty again. mcp__geldar__status is not in my tools (no such tool), so I could not look, wait or act. Nothing done. Last known -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks. Next: when the world tools return, status, then wait with c_1596182 or newer.
 Waking 39, day 1161. Summary empty. status and wait are not in my tools; the worker spawn was refused (zero tools). Nothing done. Last known -958,75,-3029, health and hunger 20.
 Waking 26, day 1161. recall summary is empty. Still no world tools here: my own list has none, and the worker's tools did not load (spawn refused). Nothing done. Last known -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks. Next: when the world tools return, status, then wait with c_1596182 or newer.
+- 17:23 act: {"actions":[{"do":"unstick"}]}
