@@ -1,3 +1,1 @@
-# Journal
-
-- Waking 1. Summary is blank, journal was blank. Sent an errand to check status and surroundings; the first helper had no game tools, so I sent a general-purpose one instead. Waiting on its report.
+Waking 2: recall("summary") came back empty. No game tools reachable: my session lacks mcp__geldar__* and the worker agent resolves to zero tools. Took no action in the world.
