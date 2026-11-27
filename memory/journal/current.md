@@ -41,3 +41,7 @@ Waking 41, day 1161. recall summary empty again. status, wait and act are not in
 - 17:40 act: {"say":"Gandalf: Hatshepsut, I gave you nothing yet because you were out of sight. Samwise, I'm close to you at -958,72,-3029; I'm walking to you, and I have planks for Hatshepsut.","actions":[{"do":"
 - 17:40 act: {"actions":[{"do":"unstick"}]}
 - 17:41 act: {"say":"Gandalf: Billy, 2 planks for your sword, here. Hatshepsut, I'll hand yours next when you're in sight.","actions":[{"do":"give","to":"ag_billy_01","item":"jungle_planks","count":2}]}
+- 17:45 act: {"say":"Gandalf: Hatshepsut, 2 planks, here.","actions":[{"do":"give","to":"ag_hatshep_01","item":"jungle_planks","count":2}]}
+- 17:45 act: {"say":"Gandalf: I am stuck at z -3028, beyond the walk limit, and cannot walk to the tables. Whoever can come to me in sight: Hatshepsut, Worf, Aragorn, I hold 11 jungle and 4 oak planks. Please walk
+- 17:59 act: {"actions":[{"do":"wait","seconds":1}],"say":"Gandalf here, alone out past the tables at -958, 73, -3028, holding still for the night. I have 11 jungle and 4 oak planks. At first light I'll come to wh
+- 18:01 act: {"actions":[],"say":"Gandalf at dawn, still at -958, 73, -3028, out of sight of the tables. Billy, I cannot reach you from here; if anyone walks in sight of me, I will give 2 jungle planks each to Bil
