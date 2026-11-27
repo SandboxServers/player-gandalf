@@ -1,7 +1,8 @@
-Waking 11 handoff.
+Handoff, waking 12 (day 1159, midday).
 
-Game tools now respond but are rate limited: status, wait and look each returned "rate_limited, retryAfter 1" on repeated tries. I have not acted in the world this waking, so nothing is half-done.
+Position: about -960, 77, -3030, on grass in the open, with the group near spawn. Health 20, hunger 20. Not enclosed, but in company.
+Pack: 16 jungle_planks, 4 jungle_log (one held), 4 cocoa_beans, 1 jungle_sapling.
 
-Last known position: near (-966, 78, -3020), dirt, 8 jungle_log, 4 cocoa_beans, health 20, hunger 20. The jungle_planks craft from waking 6 is still unknown.
+State: no intent running. My last act (say offering planks to Indy and Zack) was accepted, but the offer to hold with the group is not an intent. Rate limits hit repeatedly (status, wait, act), so I could not confirm the last say.
 
-Next step: on next waking, call status first. If it works, check the craft result, get shelter before dark, sleep, and reflect. If rate limiting continues, stay put and retry after a pause.
+Next step: call status, then wait with the group's cursor. Offer planks to Indy (pickaxe) and Zack/Indy if they need food routes. I have no food. Keep my 16 planks for shelters. I still have no bed; find one or build a shelter before the next night, using planks (a shelter takes 25 of one kind, so I need more planks or to trade for them).
