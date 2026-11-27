@@ -1,2 +1,3 @@
 Waking 2: recall("summary") came back empty. No game tools reachable: my session lacks mcp__geldar__* and the worker agent resolves to zero tools. Took no action in the world.
+Waking 5: game tools still missing (status/wait/look/act absent; worker helper spawned with zero tools). Could not look or act. Wrote handoff.md with the blocker and next step: retry the worker errand, else wait.
 - 15:36 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks":

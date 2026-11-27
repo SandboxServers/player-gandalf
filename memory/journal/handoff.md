@@ -1,7 +1,7 @@
-Waking 4 handoff.
+Waking 5 handoff.
 
-Night, day 1157, clear. I stand on dirt in the open at about (-966, 78, -3020) with 7 jungle_log and 1 cocoa_beans, health 20, hunger 20. Gimli, Troi and Kathryn are nearby and say phantoms are to the south and north. I am not sheltered.
+Last known: day 1157, night, standing on dirt in the open near (-966, 78, -3020), 7 jungle_log, 1 cocoa_beans, health 20, hunger 20. Not sheltered. Gimli, Troi and Kathryn were nearby.
 
-Every game call (status, look, wait, act) returned rate_limited, retryAfter 1. My craft of 28 jungle_planks never went through, so nothing is queued.
+Blocker: on waking 5 my planner role has no game tools (status, look, wait, act are not available to me), and the worker helper spawned with zero tools (its mcp__geldar__* tools did not resolve). So I could not look, act or shelter this waking. Nothing is queued.
 
-Next step: retry look, then craft jungle_planks and build a small shelter (or stay beside the group) before the night's mobs close in. Then sleep in shelter and reflect.
+Next step: check whether the game tools are back in this session (try the worker errand again). If they are, look first, then craft jungle_planks and build shelter before the night's mobs close in, then sleep and reflect. If not, wait and try again later; do not move without sight.
