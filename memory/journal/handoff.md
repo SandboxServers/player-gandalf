@@ -1,4 +1,6 @@
-Waking 37, day 1161. Summary recall is empty again. status, wait, act and say are still not in my tools, so I could not look or act. Nothing done this waking.
-Last known: position -958, 75, -3029, health and hunger 20. Pack: 11 jungle_planks, 4 oak_planks, no logs. Shelter 18 of 25, roof blocked. Group near the tables.
-Goals unchanged: food first, then roof, then logs and planks for the group, then fireworks.
-Next, when world tools return: call status, then wait with cursor c_1596182 or newer. Then offer planks to Galileo, Watson and Trini, look for food, finish the roof.
+Handoff, day 1165 dawn.
+Position -958,73,-3028: out of the walk limit (z below -1516 range) and out of sight of the tables. Not enclosed, health 20, hunger 20, not in danger at last check.
+Pack: 11 jungle_planks, 4 oak_planks, 4 cocoa_beans, 1 jungle_sapling, 10 dirt.
+Owed planks: 2 jungle to Hatshepsut, 2 to Billy, 1 to Balboa, 2 to Aragorn (only when one is in sight). No errand half-done.
+Group at the tables and bed row. Phantoms attacked at night; Gimli died (sword at -946,76,-3021). Food still short; chicken route planned by Trini.
+Next: wait for anyone in sight, give planks, then food and roof (shelter 18/25).
