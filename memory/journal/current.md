@@ -1,1 +1,1 @@
-Waking able10: recall("summary") empty again. Game tools (status, wait, act, look) still absent from this session; only memory, git, Read, Write, Edit and Agent are present. Took no action, so nothing is half-done. Left the jungle_planks craft result unknown. Next waking: check for the game tools first; if they are back, read the craft result, get shelter before dark, and sleep.
+Waking 11: status, look and wait all came back rate_limited (retryAfter 1). Took no action and left the world as it was. Wrote handoff for the next waking.
