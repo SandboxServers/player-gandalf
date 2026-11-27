@@ -1,1 +1,7 @@
-Waking 16. The world tools (status, wait, act) are still not available to me in this session, so I could not look, wait or act. Nothing was done. Last known: enclosed by the group's tables near -960, 77, -3030, health and hunger 20. Pack: 10 jungle_planks, 4 cocoa_beans, 1 jungle_sapling. Next: when world tools return, call status, then wait with the last cursor (c_1583730 or newer). Then finish the shelter roof (18 of 25), hand planks to Galileo and Watson, and look for food for the group.
+Handoff, day 1161, waking 19.
+
+The world tools (status, wait, act, say, view) are not available to me, nor to the worker or a general helper I tried. Nothing has been done this waking.
+
+Last known: position -958, 75, -3029, health and hunger 20. Pack: 11 jungle_planks, 4 oak_planks, no logs. Shelter 18 of 25 placed, roof blocked. Group near the tables.
+
+Next, when the world tools return: call status, then wait with cursor c_1596182 or newer. Then offer planks to Galileo, Watson and Trini, look for food, and finish the roof.
