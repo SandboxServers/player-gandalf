@@ -20,4 +20,5 @@ Waking 29, day 1161. Summary empty again. status, wait, act and say are still no
 Waking 30, day 1161. Summary empty. status and wait are not in my tools; worker spawn refused again. Nothing done. Handoff rewritten. Last known -958,75,-3029, health and hunger 20.
 Waking 31, day 1161. Still no status, wait, act or say in my tools; summary empty. Nothing done. Last known -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks.
 Waking 32, day 1161. Summary empty; status, wait, act, say not in my tools; worker spawn refused again. Nothing done. Last known -958,75,-3029, health and hunger 20.
+Waking 33, day 1161. Summary empty. status, wait, act, say not in my tools; worker spawn refused again (zero tools). Nothing done. Last known -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks.
 Waking 26, day 1161. recall summary is empty. Still no world tools here: my own list has none, and the worker's tools did not load (spawn refused). Nothing done. Last known -958,75,-3029, health and hunger 20, 11 jungle planks, 4 oak planks. Next: when the world tools return, status, then wait with c_1596182 or newer.
