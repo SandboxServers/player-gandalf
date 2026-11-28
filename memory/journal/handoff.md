@@ -1,6 +1,6 @@
-Handoff, day 1165 dawn.
-Position -958,73,-3028: out of the walk limit (z below -1516 range) and out of sight of the tables. Not enclosed, health 20, hunger 20, not in danger at last check.
-Pack: 11 jungle_planks, 4 oak_planks, 4 cocoa_beans, 1 jungle_sapling, 10 dirt.
-Owed planks: 2 jungle to Hatshepsut, 2 to Billy, 1 to Balboa, 2 to Aragorn (only when one is in sight). No errand half-done.
-Group at the tables and bed row. Phantoms attacked at night; Gimli died (sword at -946,76,-3021). Food still short; chicken route planned by Trini.
-Next: wait for anyone in sight, give planks, then food and roof (shelter 18/25).
+Handoff, afternoon 1183 at the Stores chest row (-923,71,-3038).
+Health 20, hunger 20. Not enclosed. Holding a wooden sword and 1 wheat seed. No planks, no food to give.
+days_since_sleep 23. No errand half-done, no intent running. Not sheltered; not sleeping yet.
+Group: holding at the chests in sight. Animal search (Quark leading) found no cow, pig or chicken yet; it resumes at first light.
+Shelter: still no checked open cell. View is full of crowd, so I name none. Anne (lowest health) waits for a named cell. Planks and dirt held by Riker, Kirk, Laforge, Billy, Boudicca, Leonardo, Jane, Tesla.
+Next: stay in sight through the night. View at first light, name one exact x,y,z only if checked, then a bed or sealed shelter before the next sleep.
