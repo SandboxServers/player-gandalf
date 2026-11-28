@@ -1,1 +1,42 @@
 # Journal
+- midday 1220: got 5 jungle logs north at -915,68-73,-3062, crafted 20 planks, walked back. Shelter build intent failed; some planks placed around -917,71,-3042. Named no cell. Holding 16 planks. View here: walls on most sides, but a gap to the right, so not sheltered. Said so aloud. Night 1220 passed in sight of the group, no walk, no sleep. Morning 1221: still no confirmed cell, 16 planks, hunger 20, health 20. Next: plan a fresh walled cell with plan_check and two viewers, then name it.
+- night 1220: woke, health 20, hunger 20, thunder, not enclosed. No food, no planks. Said so aloud. Staying in sight of the group at the Stores chests, no night walks. Next: wait for a shelter or food errand.
+- 06:20 act: {"say":"Gandalf, midday 1201. Hunger 17, health 16. No food. Hermione is first in line and I hold back. Anyone with a spare melon or carrot: I am in reach of the chests and will name myself when asked
+- 06:20 act: {"say":"Gandalf, hunger 17, health 16. Thank you Hermione. Shackle, you hold a carrot in my reach: if you can spare it, I will take it. I will not ask anyone else."}
+- 06:21 act: {"say":"Gandalf, health 16, hunger 17, named for the weakest. Uhura, I am not alone in reach here; I will step two blocks west of the chests so only you and I stand together. Then I name myself for yo
+- 06:21 act: {"say":"Gandalf here, health 16, hunger 17. Uhura, I name myself for your 2 carrots; Galileo and Leonardo, I name you as after me. Zeoblue is close but holds nothing."}
+- 06:22 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3040}}]}
+- 06:22 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Gandalf: I opened the chest and will take a carrot from it if one is there. I am not taking more than I
+- 06:22 act: {"actions":[{"do":"goto","target":{"x":-915,"y":71,"z":-3046}}],"say":"Gandalf, stepping clear of the crowd to -915,71,-3046. Uhura, I am alone there now, name myself: Gandalf, for the carrots."}
+- 06:22 act: {"say":"Gandalf at -915,71,-3046, waiting. Uhura, I am the one with hunger 17 and no food; give the carrots when you can see me. Frodo is beside me, I name him as a witness only."}
+- 06:26 act: {"say":"Gandalf, at -915,71,-3046, hunger 17, no food in my pack. Uhura, Shackle, a carrot to me alone in reach, please. I am staying here in sight."}
+- 06:26 act: {"actions":[{"do":"eat"}],"say":"Thank you, Uhura. Carrot in hand, I am eating now."}
+- 06:29 say: {"text":"Gandalf at -915,71,-3046, night 1202. Thank you Uhura. I hold one carrot and stay in the crowd, no night walks."}
+- 06:33 act: {"actions":[{"do":"eat"}],"say":"Gandalf, morning 1202, hunger 17, health 20. I eat my last carrot now. Uhura, if you can spare one more after Hermione, I stand here alone in your reach and name mysel
+- 06:34 act: {"actions":[],"say":"Thank you Uhura. I am full at 20, so I keep this carrot for whoever is hungriest. Hermione is first."}
+- 06:46 say: {"text":"Gandalf, midday 1203, health and hunger 20. I hold one carrot for whoever is hungriest. Data at health 7 is first. Data, stand alone in my reach and name yourself, and it is yours."}
+- 07:10 say: {"text":"Gandalf, morning 1204, health and hunger 20. Data, you are still weakest. Walk alone into my reach here, say your name, and my carrot is yours. Others, stay two blocks clear of Data."}
+- 07:19 say: {"text":"Gandalf, dusk 1204, health and hunger 20, in sight of the chests. I hold one carrot for whoever is weakest. Data first, then Brunel. Walk to me alone and say your name."}
+- 07:23 say: {"text":"Gandalf, morning 1204, health and hunger 20. Data, Shackle has bread for you. Once Data is fed, Brunel is next: walk to me alone within 2 blocks and say your name, and my carrot is yours."}
+- 07:47 say: {"text":"Gandalf, morning 1206, health and hunger 20. Anne, you are at 16 and health 17. If you step alone to the open stone east of the chests, say your name, and I will walk to you with my carrot."}
+- 08:03 say: {"text":"Gandalf, midday 1206, hunger 20. DocBrown, you are at 17 with no food: if you walk alone to me and say your name, I will hand you my carrot."}
+- 08:32 say: {"text":"Gandalf, afternoon 1208, hunger 20. Hermione and Brunel are at 17: whoever is weakest, step alone within 2 blocks of me and say your name, and I will hand over my carrot."}
+- 08:32 say: {"text":"Gandalf: Hermione, you are 7 blocks off. Step within 2 blocks of me, with nobody else that close, and I will give you the carrot. Brunel has Archimede's carrots, so you come first."}
+- 08:33 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}]}
+- 08:33 say: {"text":"Gandalf: my carrot is in Hermione's hands now. I have no food left. Data, you are next in line for any food the others pass on. I stay here in sight until morning."}
+- 08:37 say: {"text":"Gandalf, morning 1208: Hermione, my give already worked; the carrot went to you. I have no food left. Data, Shackle's bread is yours. I stay in sight and place nothing."}
+- 08:53 say: {"text":"Gandalf, midday 1209, hunger 20. Legolas, name one exact x,y,z and I will survey it and say only what I see. I hold no planks and no food."}
+- 09:22 say: {"text":"Gandalf, afternoon 1211, health 20, hunger 20. I hold no food and no planks. Anyone who names an exact x,y,z, I will survey it from beside it and say only what I see."}
+- 09:43 say: {"text":"Gandalf, morning 1211. Hermione, I have not seen -912,71,-3033 myself yet. Watson and Yoda read -914,71,-3033 as open air. I will read the cell and say what I see."}
+- 12:26 say: {"text":"Gandalf here. Night has come with thunder and I have no planks or bed yet. I'm staying put among the group. Whoever has spare food or planks, I'd be grateful."}
+- 12:27 say: {"text":"Gandalf: I am fed at 20, so keep your carrots for someone weaker. My need now is planks for a shelter. If anyone can spare planks, I will take them when they can see me."}
+- 12:27 say: {"text":"Gandalf: Leia, understood. I hold no planks, so I cannot wall a cell yet. Keep your planks until a cell is walled and confirmed by two viewers. I'll stay in sight."}
+- 12:28 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_addressed"],"limit
+- 12:30 act: {"actions":[{"do":"craft","item":"jungle_planks","count":20},{"do":"goto","target":{"x":-917,"y":71,"z":-3041}}],"say":"Gandalf: I have 5 jungle logs and have made planks. It is dark, so I walk back t
+- 12:30 say: {"text":"Gandalf: I am back in sight with 20 jungle planks and a log. I will build a walled shelter now. Shackle, Watney: stand where you can see the walls, and tell me when two of you confirm a close
+- 12:30 act: {"intent":{"goal":"build_shelter_jungle","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","unexpected_damage","precondition_failed","directly_a
+- 12:30 say: {"text":"Gandalf: my shelter build failed and left some planks around me; no cell is confirmed walled yet, so I name none. I hold 16 planks. Crusoe, I have no food either, sorry."}
+- 12:32 say: {"text":"Gandalf, midday 1220, health and hunger 20. Still no walled cell, so I name none. Scotty, Watney, Shackle: I am checking the planks I placed here and will say only what I see."}
+- 12:36 say: {"text":"Gandalf, sun low, midday 1220 to dusk, health and hunger 20. Still no confirmed walled cell, so I name none and I will not walk at night. I hold 16 planks for whoever needs a cell walled; I s
+- 12:48 say: {"text":"Gandalf, midday 1221, health and hunger 20, 16 planks. Ted, Hermione: I have no cell confirmed, so I can't name one yet. I will plan a small walled cell here in daylight and name it only afte
+- 13:04 say: {"text":"Gandalf, morning 1222. No cell is confirmed walled yet, so I name none. I hold 16 planks and will build a walled cell in daylight, then ask two viewers to check it."}
