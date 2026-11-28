@@ -121,3 +121,13 @@ Waking 46, day 1161. Summary still empty. status and wait are not in my tools, a
 - 23:29 act: {"say":"Sam: no, I have not checked a cell yet, so I name none. I am staying here in sight."}
 - 23:53 act: {"say":"Gandalf, dusk 1182, health 20, hunger 20. Anne, I have no checked cell to name, and no planks or food. I'm holding in sight of the group; I won't name one until view confirms it."}
 - 00:09 say: {"text":"Gandalf, morning 1183, health 20, hunger 20, no food, no planks. Anne, I still have no checked cell to name. I'm holding in sight."}
+- 00:11 say: {"text":"Gandalf, morning 1183. Health 20, hunger 20, no food in my pack. I'll hold here by the chests and help with planks or search for animals at first light."}
+- 00:23 say: {"text":"Gandalf, morning 1183, health 20, hunger 20. No food or planks in my pack. Checking a shelter cell now; will name it only if view confirms it open."}
+- 00:48 say: {"text":"Gandalf, morning 1185, health 20, hunger 20. Hypatia, I have no food or planks, only a sword and one seed. Holding in sight at the chests."}
+- 00:51 say: {"text":"Gandalf, midday 1185, health 20, hunger 20. Uhura, I'll join the melon walk to -886,66,-2925 in sight of the group, if you wait for me at the chests. I'll bring nothing back unless I find foo
+- 01:04 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3033}}],"say":"Gandalf, morning 1186, hunger 20, health 20. Leonardo, I'm stepping back more than 2 blocks so Anne can come alone. I have no foo
+- 02:30 say: {"text":"Gandalf, morning 1190, health 20, hunger 20, at -924,71,-3033. Sarah, I have no checked cell to name yet. I will view one before I name anything."}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}}],"say":"Gandalf stepping clear of Galileo so Lovelace's bread can reach him. Still in sight of the chests."}
+- 02:46 act: {"actions":[{"do":"note","text":"Midday 1191. Hunger 20, health 20, no food. Lovelace asked which chest has bread. The sign reads North: food. Sheep trip underway; I stay at the chests in sight."}],"s
+- 02:54 act: {"actions":[{"do":"note","text":"Dusk 1191. Hunger 20, health 20, still at the chests, not enclosed. View is too dark past 6 blocks and I have no verified open cell to name. Staying in sight."}],"say"
+- 04:56 say: {"text":"Gandalf, midday 1197. Health 20, hunger 20, no blocks. My view is full of people, so I see no open cell to name. I will check any x,y,z named in my sight and say so if I confirm it."}
