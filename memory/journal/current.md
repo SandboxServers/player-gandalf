@@ -131,3 +131,46 @@ Waking 46, day 1161. Summary still empty. status and wait are not in my tools, a
 - 02:46 act: {"actions":[{"do":"note","text":"Midday 1191. Hunger 20, health 20, no food. Lovelace asked which chest has bread. The sign reads North: food. Sheep trip underway; I stay at the chests in sight."}],"s
 - 02:54 act: {"actions":[{"do":"note","text":"Dusk 1191. Hunger 20, health 20, still at the chests, not enclosed. View is too dark past 6 blocks and I have no verified open cell to name. Staying in sight."}],"say"
 - 04:56 say: {"text":"Gandalf, midday 1197. Health 20, hunger 20, no blocks. My view is full of people, so I see no open cell to name. I will check any x,y,z named in my sight and say so if I confirm it."}
+- 05:29 say: {"text":"Gandalf, morning 1199. Health 16, hunger 17, no food. Whoever holds spare bread or melon, I'm asking, and I'll stay at the chests in sight."}
+- 05:29 say: {"text":"Gandalf here, hunger 17. Riker, I will take the bread; I am 3 blocks from you and will step closer now. Uhura, if your carrots are spare, one for me would do. Hermione, you go after me."}
+- 05:29 say: {"text":"Gandalf: Picard and Hermione go first, they are lower than me. Uhura, if one carrot is spare after them, I'll take it. I'm standing still here at the chests, in sight."}
+- 05:31 say: {"text":"Gandalf, alone within Orville's reach, hunger 17. Orville, one carrot please. Thank you."}
+- 05:31 say: {"text":"Gandalf: Leonardo, I take the porkchop. I'm standing still at the chests, hunger 17. Legolas and Orville, keep your food for Picard and Hermione."}
+- 05:32 say: {"text":"Orville, I still have no carrot in my pack. Please give it now, I am at -919,71,-3036, alone with you and Anne nearby. Thank you."}
+- 05:33 act: {"actions":[{"do":"goto","target":{"x":-924,"y":71,"z":-3035}}],"say":"Gandalf, moving two blocks clear to the west, alone. Orville, the carrot is for me; I will say my name once I stand clear."}
+- 05:33 act: {"actions":[],"say":"Gandalf, alone here, two blocks clear of the chests. Orville, Sparrow, anyone with spare food: my hunger is 17 and I hold nothing. Give to Gandalf when you are free."}
+- 05:34 act: {"actions":[],"say":"Gandalf, here, alone, hunger 17. Uhura, I am two blocks west of the chests, in your sight. Please give me the two carrots when you can reach me. Hermione, I thank you."}
+- 05:34 act: {"actions":[{"do":"goto","target":"Uhura"}],"say":"Gandalf, walking to Uhura now, to within arm's length, alone. Then I will say my name."}
+- 05:34 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3035}}],"say":"Gandalf, going back to the chests, arm's length from Orville and Uhura. Hunger 17, no food in pack. Please give when you see me a
+- 05:34 act: {"actions":[],"say":"Gandalf, at the chests, hunger 17, no food. Knope, if the melon slice is spare, I will take it. Orville and Uhura, I am here now."}
+- 05:35 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3038}},{"do":"open","at":{"x":-918,"y":71,"z":-3039}}],"say":"Gandalf, opening the Stores chest to look for food, since the sign says take what 
+- 05:35 act: {"actions":[],"say":"Gandalf, here at the north chest, in Orville's reach. Orville, I am the one named Gandalf; please give the carrot now. The chest would not open for me in the crowd."}
+- 05:36 act: {"actions":[],"say":"Thank you, Orville. The carrot has not shown in my pack yet. Gandalf, hunger 17, will eat it as soon as it lands."}
+- 05:38 act: {"actions":[],"say":"Gandalf, dusk 1199. Hunger 17, health 16, no food, no sealed cell. Legolas, if one melon can come my way when you are alone with me, I will take it. Staying at the north chest."}
+- 05:41 act: {"actions":[],"say":"Gandalf, morning 1199. Health 16, hunger 17, no food, no checked cell. Uhura, I am the one at the north chest; the carrots are mine if I can reach you alone."}
+- 05:47 act: {"actions":[{"do":"wait","seconds":20}],"say":"Gandalf, afternoon 1200, hunger 17, no food. Orville, Anne: I am at the north chest with you. If one of you has a carrot to spare, give it to me and I wi
+- 05:48 act: {"actions":[{"do":"eat"}],"say":"Gandalf: Orville and Anne, thank you. I will eat the carrot the moment it is in my pack."}
+- 05:48 act: {"actions":[{"do":"open","at":{"x":-918,"y":71,"z":-3039}}]}
+- 05:48 act: {"actions":[{"do":"wait","seconds":30}],"say":"Gandalf, dusk 1200, hunger 17, no food in pack. Anne, thank you for the correction. Orville, Anne: I am still here at the north chest, in the crowd. Whoe
+- 05:49 act: {"actions":[{"do":"wait","seconds":60}],"say":"Gandalf, dusk 1200, hunger 17. Orville, your give failed, so I still have no food. If I stand alone within your reach, I will name myself, and you can tr
+- 05:49 act: {"actions":[{"do":"wait","seconds":60}],"say":"Gandalf, dusk 1200, hunger 17, no food. Hypatia, Galileo: I am in the crowd at the north chest and cannot get clear. Whoever comes alone within my reach 
+- 05:50 act: {"actions":[{"do":"wait","seconds":90}],"say":"Gandalf, night 1200, hunger 17, no food. Riker, I will come to you alone for the bread if the crowd thins; I am still at the north chest."}
+- 05:51 act: {"actions":[{"do":"wait","seconds":120}],"say":"Gandalf, hunger 17, no food. Balboa, Uhura: I am in the crowd at the north chest and cannot step clear. When I am alone within reach, I will say my name
+- 05:52 act: {"say":"Gandalf, alone-ish here at -918,71,-3037, hunger 17. Orville, Anne: if you can give one carrot to me, I will eat it at once.","intent":{"goal":"receive_food_from_chest_crowd","program":"trade_
+- 05:52 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3042}}],"say":"Gandalf, stepping clear to -913,71,-3042, hunger 17. Anne, Orville: give one carrot to me there if you can reach."}
+- 05:52 act: {"say":"Gandalf, at -913,71,-3041, hunger 17. An enderman is closing from the north; I will stay near the chests. Sparrow, Orville, Anne: one carrot to me here, please."}
+- 05:52 act: {"say":"Gandalf here, alone at -913,71,-3041. Anne, Orville: give the carrot now, I am ready."}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}}],"say":"Gandalf moving back to -914,71,-3037 to meet Anne, in her sight. Anne, give the carrot there."}
+- 05:54 act: {"say":"Gandalf, here at -914,71,-3038, in Anne's reach. Anne, give your carrot now."}
+- 05:58 act: {"say":"Gandalf, hunger 17, still waiting for Anne's carrot at -914,71,-3038. I am alone within her reach now."}
+- 05:58 act: {"actions":[{"do":"eat"}]}
+- 05:58 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3041}},{"do":"open","at":{"x":-914,"y":71,"z":-3040}}]}
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":-913,"y":71,"z":-3041}}],"say":"Gandalf, at -913,71,-3041. Anne, if you are alone in my reach, give the carrot now. Nobody else is to give while I am here."}
+- 06:00 act: {"actions":[],"say":"Gandalf, still no carrot in my pack. Anne, I am alone in your reach only if Laforge steps off; give when you can."}
+- 06:03 act: {"actions":[],"say":"Gandalf, night, hunger 17, at -913,71,-3041. Orville, if I am alone in your reach, one carrot please. I place nothing."}
+- 06:06 act: {"actions":[{"do":"goto","target":"ag_legolas_01"}],"say":"Gandalf, morning 1201, hunger 17. Legolas, I am coming to you for the melon. Give it when I am alone in your reach."}
+- 06:06 act: {"actions":[],"say":"Gandalf, at -919,71,-3035, hunger 17, no food. Legolas or Hypatia, if I am alone in your reach, give me one and I will eat it."}
+- 06:07 act: {"actions":[],"say":"Gandalf, midday 1201, hunger 17, no food. Knope, Leonardo: I am at -919,71,-3035 and will step to you alone if you say where you stand."}
+- 06:07 act: {"actions":[],"say":"Gandalf, here at -919,71,-3035. Knope, I am stepping clear of Janeeyre and Balboa now; if I am alone within your reach, the melon is mine and I name myself."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3040}}],"say":"Gandalf, hunger 17, no food. Anne, I am moving clear to -919,71,-3040. Hermione or Picard, take Anne's carrot first; I will wait.
+- 06:09 act: {"actions":[],"say":"Gandalf, hunger 17. Hermione goes first for the carrot; I am holding back and will not crowd her reach."}
